@@ -1,4 +1,16 @@
 @import url('https://fonts.googleapis.com/css2?family=Sunshiney&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Sunshiney&family=Tillana:wght@400;500;600;700;800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Great+Vibes&family=Sunshiney&family=Tillana:wght@400;500;600;700;800&display=swap');
 .test{
     font-family: "Sunshiney", cursive;
+}
+.accept{
+    font-family: "Tillana", system-ui;
+    font-weight: 500;
+    font-style: normal;
+}
+.view{
+    font-family: "Great Vibes", cursive;
+    font-weight: 400;
+    font-style: normal;
 }
